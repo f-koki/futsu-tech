@@ -1,0 +1,11 @@
+.Logo {
+  padding: 300px;
+}
+
+.Logo .name {
+  font-family: monospace;
+}
+
+.Logo .job {
+  font-size: 12px;
+}
