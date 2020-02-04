@@ -1,4 +1,16 @@
-.Header .inscription {
+.Header {
   font-size: 8px;
   color: darkolivegreen;
+}
+
+.Header .inscription {
+  display: flex;
+}
+
+.Header .profile {
+  display: flex;
+}
+
+.Header .works {
+  display: flex;
 }
