@@ -1,16 +1,25 @@
 .Header {
+  margin-top: 16px;
+  height: 32px;
   font-size: 8px;
   color: darkolivegreen;
+  padding: 0 16px;
 }
 
 .Header .inscription {
+  margin-left: 16px;
   display: flex;
+  float: left;
 }
 
 .Header .profile {
+  margin: 0 16px;
   display: flex;
+  float: right;
 }
 
 .Header .works {
+  margin: 0 16px;
   display: flex;
+  float: right;
 }
