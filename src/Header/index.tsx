@@ -4,8 +4,8 @@ import "./Header.css";
 const Header: React.FC = () => (
   <div className="Header">
     <div className="inscription">just one by one</div>
-    <div className="profile">PROFILE</div>
-    <div className="works">WORKS</div>
+    <a className="profile">PROFILE</a>
+    <a className="works">WORKS</a>
   </div>
 );
 
