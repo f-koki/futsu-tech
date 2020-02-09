@@ -3,6 +3,7 @@ import "./App.css";
 import Logo from "./Logo";
 import Header from "./Header";
 import Works from "./Works";
+import Footer from "./Footer";
 
 const App: React.FC = () => (
   <div className="App">
@@ -10,6 +11,7 @@ const App: React.FC = () => (
     <body>
       <Logo />
       <Works />
+      <Footer />
     </body>
     <footer></footer>
   </div>
