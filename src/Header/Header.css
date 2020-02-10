@@ -1,12 +1,11 @@
 .Header {
-  margin-top: 16px;
-  height: 32px;
+  height: 64px;
   font-size: 8px;
   color: darkolivegreen;
   padding: 0 16px;
+  line-height: 64px;
 }
 
-/* TODO: 縦寄せのイケてるやりかたを学ぶ */
 .Header .inscription {
   margin-left: 16px;
   display: flex;
