@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import Logo from "./Logo";
 import Header from "./Header";
 import Works from "./Works";

@@ -1,5 +1,4 @@
 import React from "react";
-import "./Works.css";
 import Work from "../Work";
 
 const Works: React.FC = () => (
