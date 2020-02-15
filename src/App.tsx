@@ -1,15 +1,15 @@
 import React from "react";
 import Logo from "./Logo";
 import Header from "./Header";
-import Works from "./Works";
 import Footer from "./Footer";
+import FeaturesPage from "./FeaturePage";
 
 const App: React.FC = () => (
   <div className="App">
     <Header />
     <body>
       <Logo />
-      <Works />
+      <FeaturesPage />
       <Footer />
     </body>
     <footer></footer>
