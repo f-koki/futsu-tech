@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar } from 'react-bootstrap';
 
 const Header: React.FC = () => (
-  <Navbar fixed="top" bg="dark" variant="dark">
+  <Navbar fixed="top">
     <Navbar.Brand>FUTSU TECH</Navbar.Brand>
   </Navbar>
 );
