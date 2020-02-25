@@ -10,7 +10,7 @@ const App: React.FC = () => (
     <Header />
     <body>
       <Logo />
-      <TimelinePage />
+      {/* <TimelinePage /> */}
       <FeaturesPage />
       <Footer />
     </body>
