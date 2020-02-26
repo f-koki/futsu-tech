@@ -5,15 +5,12 @@ const StyledLogo = styled.div`
   padding: 300px;
   background: white;
   text-align: center;
-  font-family: "monospace";
 `;
-
-const StyledName = styled.h1``;
 
 const Logo: React.FC = () => (
   <StyledLogo>
-    <StyledName>FUTSU TECH</StyledName>
-    <span className="job">💻ENGINEER / 🎹KEYBOARDIST / 💡Lifehacker</span>
+    <h1>FUTSU TECH</h1>
+    <span>💻ENGINEER | 🎹KEYBOARDIST | 💡LIFEHACKER</span>
   </StyledLogo>
 );
 
