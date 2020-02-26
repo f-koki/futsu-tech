@@ -4,9 +4,7 @@ import { MDBRow, MDBCol, MDBIcon } from "mdbreact";
 const FeaturesPage: React.FC = () => {
   return (
     <section className="my-5">
-      <h2 className="h1-responsive font-weight-bold text-center my-5">
-        Works
-      </h2>
+      <h2 className="h1-responsive font-weight-bold text-center my-5">Works</h2>
       <MDBRow>
         <MDBCol md="10">
           <MDBRow className="mb-3">
@@ -45,7 +43,7 @@ const FeaturesPage: React.FC = () => {
               />
             </MDBCol>
             <MDBCol size="10">
-              <h5 className="font-weight-bold mb-3">Coarching</h5>
+              <h5 className="font-weight-bold mb-3">Lifehacker</h5>
               <p className="grey-text">独立支援 / 転職支援</p>
             </MDBCol>
           </MDBRow>

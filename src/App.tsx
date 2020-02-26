@@ -3,7 +3,6 @@ import Logo from "./Logo";
 import Header from "./Header";
 import Footer from "./Footer";
 import FeaturesPage from "./FeaturePage";
-import TimelinePage from "./TimelinePage";
 
 const App: React.FC = () => (
   <div className="App">

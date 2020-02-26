@@ -13,7 +13,7 @@ const StyledName = styled.h1``;
 const Logo: React.FC = () => (
   <StyledLogo>
     <StyledName>FUTSU TECH</StyledName>
-    <span className="job">💻ENGINEER / 🎨DESIGNER / 🎹KEYBOARDIST</span>
+    <span className="job">💻ENGINEER / 🎹KEYBOARDIST / 💡Lifehacker</span>
   </StyledLogo>
 );
 
