@@ -4,17 +4,13 @@ import styled from "styled-components";
 const StyledLogo = styled.div`
   background: white;
   text-align: center;
+  padding: 300px;
 `;
 
 const Logo: React.FC = () => (
   <StyledLogo>
-    {/* <h1>FUTSU TECH</h1>
-    <span>💻ENGINEER | 🎹KEYBOARDIST | 💡LIFEHACKER</span> */}
-    <img
-      src={process.env.PUBLIC_URL + "logo.png"}
-      alt="logo"
-      style={{ maxHeight: 1000 }}
-    />
+    <h1>FUTSU TECH</h1>
+    <span>💻ENGINEER | 🎹KEYBOARDIST | 💡LIFEHACKER</span>
   </StyledLogo>
 );
 
